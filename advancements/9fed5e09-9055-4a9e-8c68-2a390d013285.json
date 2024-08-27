@@ -1,17 +1,17 @@
 {
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-08-27 15:57:44 +0530"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jungle_planks": {
-    "criteria": {
-      "has_logs": "2024-08-27 15:58:58 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-08-27 15:56:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-08-27 15:56:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-08-27 15:56:39 +0530"
     },
@@ -20,6 +20,19 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2024-08-27 15:56:40 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-08-27 15:57:44 +0530",
+      "minecraft:plains": "2024-08-27 15:56:41 +0530"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-08-27 15:57:44 +0530"
     },
     "done": true
   },
@@ -34,19 +47,6 @@
       "in_water": "2024-08-27 15:57:44 +0530"
     },
     "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2024-08-27 15:56:39 +0530"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:river": "2024-08-27 15:57:44 +0530",
-      "minecraft:plains": "2024-08-27 15:56:41 +0530"
-    },
-    "done": false
   },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
@@ -72,12 +72,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2024-08-27 15:56:39 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-08-27 15:57:44 +0530"
@@ -87,6 +81,24 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-08-27 15:57:44 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-08-27 15:58:58 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-08-27 16:11:28 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-08-27 16:11:28 +0530"
     },
     "done": true
   },
